@@ -80,7 +80,7 @@ END_SECTION:activity-->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iqvan&show_icons=true&hide_border=true" />
+  <img align="left" alt="iqvan GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iqvan&show_icons=true&theme=radical&hide_border=true" />
 
 </details>
 
