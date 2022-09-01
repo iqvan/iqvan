@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I like team work
-- 🥅 2021 Goals: Get OSCP certification
+- 🥅 2022 Goals: Get Spring Core 5 certification
 
 ### Connect with me:
 
